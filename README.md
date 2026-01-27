@@ -1,2 +1,22 @@
-La carpeta "Volcado20241208" contiene todas las tablas de la base de datos de forma individual
-El fichero "Volcado20241208.sql" contiene la base de datos completa en un solo fichero
+# Intranet Web – Proyecto DAW
+
+Proyecto de intranet web desarrollado como parte de la formación en empresas de Desarrollo de Aplicaciones Web (DAW), con alguna funcionalidades pendientes de implementación.
+
+## 🧩 Descripción
+Aplicación web orientada a la gestión interna, con módulos relacionadas con ventas, recursos humanos y facturación.
+
+## 🛠️ Tecnologías utilizadas
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+## 🗄️ Base de datos
+La carpeta `Volcado20241208` contiene las tablas de la base de datos de forma individual.  
+El archivo `Volcado20241208.sql` incluye la base de datos completa en un único fichero.
+
+## 📌 Estado del proyecto
+Proyecto académico/práctico desarrollado con fines formativos.
+Fa
