@@ -124,7 +124,7 @@ CREATE TABLE `servicios` (
 
 LOCK TABLES `servicios` WRITE;
 /*!40000 ALTER TABLE `servicios` DISABLE KEYS */;
-INSERT INTO `servicios` VALUES (1,'Aromatherapy Relax',30,39.00,NULL),(2,'Aromatherapy Relax',50,55.00,NULL),(3,'Aromatherapy Relax',80,79.00,NULL),(4,'Ayurveda Relaxing',80,89.00,NULL),(5,'Coupla Massage',50,150.00,NULL),(6,'Coupla Massage',80,180.00,NULL),(7,'Deep Tissue Massage',30,42.00,NULL),(8,'Deep Tissue Massage',50,65.00,NULL),(9,'Deep Tissue Massage',80,89.00,NULL),(10,'Facial Express',30,42.00,NULL),(11,'Hot Stone Massage',80,79.00,NULL),(12,'India Head Massage',30,34.00,NULL),(13,'Lomi Lomi Nui',50,59.00,NULL),(14,'Lomi Lomi Nui',80,79.00,NULL),(15,'Manicura',45,25.00,NULL),(16,'Pain Relief',80,55.00,NULL),(17,'Pain Relief',80,79.00,NULL),(18,'Pedicura',60,39.00,NULL),(19,'Private Spa Valle Orotava',60,20.00,NULL),(20,'Reflexology',30,32.00,NULL),(21,'Reflexology',50,45.00,NULL),(22,'Sauna Taoro',60,20.00,NULL),(23,'Specialized Facial',70,79.00,NULL),(24,'Thai Massage',80,99.00,NULL),(25,'Tired Legs Massage',30,39.00,NULL),(26,'Tired Legs Massage',50,55.00,NULL),(133,'Añadimos un servicio de prueba',160,1500.00,'Te ponen piedras hirviendo');
+INSERT INTO `servicios` VALUES (1,'Relax',30,39.00,NULL),(2,'Aromatherapy',50,55.00,NULL),(3,'Aromatherapy',80,79.00,NULL),(4,'Relaxing',80,89.00,NULL),(5,'Massage',50,150.00,NULL),(6,'Massage',80,180.00,NULL),(7,'Tissue',30,42.00,NULL),(8,'Tissue',50,65.00,NULL),(9,'Tissue',80,89.00,NULL),(10,'Facial',30,42.00,NULL),(11,'Stone',80,79.00,NULL),(15,'Manicura',45,25.00,NULL),(16,'Pain Relief',80,55.00,NULL),(17,'Pain Relief',80,79.00,NULL),(18,'Pedicura',60,39.00,NULL),(21,'Reflexology',50,45.00,NULL),(133,'Añadimos un servicio de prueba',160,1500.00,'Te ponen piedras hirviendo');
 /*!40000 ALTER TABLE `servicios` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -262,3 +262,4 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2024-12-08 17:11:07
+
